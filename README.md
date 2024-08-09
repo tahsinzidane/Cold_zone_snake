@@ -5,7 +5,7 @@ Created by Tahsin Zidane, this game demonstrates fundamental JavaScript programm
 
 ## game preview
 
- - [play game]() 
+ - [play game](https://tahsinzidane.github.io/Cold_zone_snake/) 
 <img src='./assets/preview.png' alt='game img preview'>
 
 ## Author
