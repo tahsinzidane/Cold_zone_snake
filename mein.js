@@ -54,8 +54,17 @@ function gameLoop() {
     clearCanvas();
     drawFood();
     drawSnake();
+
+    
     // Adjust the timeout for game speed
-    setTimeout(gameLoop, 100);
+    // setTimeout(gameLoop, 100);
+    
+    // next gear of game speed, the game level will be hard when you hit 10 score 
+    if (scoreCount < 10) {
+        setTimeout(gameLoop, 100);
+    } else{6
+        setTimeout(gameLoop, 60);
+    }
 }
 
 // Move the snake function
