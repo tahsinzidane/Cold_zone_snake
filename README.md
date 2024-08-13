@@ -8,7 +8,7 @@ Created by Tahsin Zidane, this game demonstrates fundamental JavaScript programm
  - [play game](https://tahsinzidane.github.io/Cold_zone_snake/) 
 <img src='./assets/preview.png' alt='game img preview'>
 
-- [for mobile]()
+- [for mobile](https://tahsinzidane.github.io/Cold_zone_snake/mobile-version/index.html)
 
 ## Author
  - [tahsin zidane](https://github.com/tahsinzidane)
